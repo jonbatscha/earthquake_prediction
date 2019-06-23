@@ -12,6 +12,9 @@ this was for the following kaggle competition we did for practice: https://www.k
 ## accuracy
 
 
+## runtime
+
+
 ## stack used
 - google cloud platform GV100
   - nvidia tesla v100
